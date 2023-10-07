@@ -1,0 +1,14 @@
+
+W
+java:S1118	":Add a private constructor to hide the implicit public one.(·éŸË8Û€ÂŠ°1
+G	java:S106"+Replace this use of System.out by a logger.(í×ÚÈ8æ€ÂŠ°1
+G	java:S106"+Replace this use of System.out by a logger.(À›ñ8è€ÂŠ°1
+G	java:S106"+Replace this use of System.out by a logger.(ÿÙ¸ê8é€ÂŠ°1
+a
+java:S18542"?Remove this useless assignment to local variable "numMedCard1".(î…æşùÿÿÿÿ8À®¬‹°1
+F
+java:S1659(")Declare "numMedCard2" on a separate line.(£¾ø£8ì€ÂŠ°1
+G	java:S106*"+Replace this use of System.out by a logger.(‹Ãè•8í€ÂŠ°1
+G	java:S106-"+Replace this use of System.out by a logger.(éÈ¦8î€ÂŠ°1
+L	java:S1065"+Replace this use of System.out by a logger.(„ÉœÆùÿÿÿÿ8ï€ÂŠ°1
+G	java:S106<"+Replace this use of System.out by a logger.(À›ñ8ï€ÂŠ°1
